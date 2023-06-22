@@ -3,11 +3,7 @@
 💼 Currently pursuing a career in data analysis, I have a solid foundation in statistical analysis, data visualization, and data manipulation. 
 I love diving deep into data and extracting meaningful patterns that drive informed decision-making.
 
-🎓 I hold a Bachelor's of Business Administration in Computer Applications, where I gained expertise in data analysis techniques, SQL, Python, and Excel. 
-With a strong analytical mindset and a knack for problem-solving, I enjoy tackling challenges head-on and finding creative solutions.
-
-🔬 Throughout my professional journey, I have worked on various projects involving data cleaning, exploratory data analysis, and predictive modeling.
- I am well-versed in using tools such as pandas, NumPy, Matplotlib, and seaborn to wrangle and visualize data effectively.
+🎓 I hold a Bachelor's of Business Administration in Computer Applications, where I gained expertise in data analysis techniques, SQL, Python, and Excel. With a strong analytical mindset and a knack for problem-solving, I enjoy tackling challenges head-on and finding creative solutions.
 
 🌐 On my GitHub, you'll find a collection of my data analysis projects showcasing my skills in extracting insights from real-world datasets. From exploratory visualizations to predictive modeling, I enjoy sharing my work and collaborating with fellow data enthusiasts.
 
