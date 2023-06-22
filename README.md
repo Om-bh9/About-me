@@ -9,7 +9,9 @@ I love diving deep into data and extracting meaningful patterns that drive infor
 
 🌟 Passionate about continuous learning, I actively seek opportunities to expand my knowledge in emerging data analysis techniques, machine learning, and data storytelling. I believe that data has the power to drive positive change, and I'm excited to be a part of this ever-evolving field.
 
-📫 Feel free to reach out to me through GitHub or connect with me on Onkarbhise67@gmail.com.
+📫 Feel free to reach out to me through GitHub or connect with me on <a href="mailto:onkarbhise67@gmail.com">Gmail</a>
+ or at <a href="https://www.linkedin.com/in/onkar-bhise-3570b71b8/" target="_blank">LinkedIn</a>
+
 I'm always open to collaborating on exciting data projects or engaging in discussions related to data analysis. 
 Let's unlock the potential of data together! 💪"
 
